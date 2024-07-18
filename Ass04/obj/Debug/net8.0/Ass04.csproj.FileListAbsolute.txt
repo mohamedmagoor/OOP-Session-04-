@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\bin\Debug\net8.0\Ass04.exe
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\bin\Debug\net8.0\Ass04.deps.json
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\bin\Debug\net8.0\Ass04.runtimeconfig.json
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\bin\Debug\net8.0\Ass04.dll
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\bin\Debug\net8.0\Ass04.pdb
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\obj\Debug\net8.0\Ass04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\obj\Debug\net8.0\Ass04.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\obj\Debug\net8.0\Ass04.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\obj\Debug\net8.0\Ass04.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\obj\Debug\net8.0\Ass04.sourcelink.json
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\obj\Debug\net8.0\Ass04.dll
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\obj\Debug\net8.0\refint\Ass04.dll
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\obj\Debug\net8.0\Ass04.pdb
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\obj\Debug\net8.0\Ass04.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Ass04\Ass04\Ass04\obj\Debug\net8.0\ref\Ass04.dll
